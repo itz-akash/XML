@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GROCERY xsi:schemalocation="D:\WDL\XMLDTD\rohan.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<GROCERY xsi:schemalocation="D:\WDL\XMLDTD\akash.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <to>AKASH DUBEY</to>
     <from>DMART SERVICES</from>
     <type>vegetables</type>
